@@ -22,7 +22,7 @@ This simple page allow me to understand basic of flexbox (I didn't use grid to u
 
 ### Links
 
-- Live Site URL: [Waiting Update](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://sipixer.github.io/QR-CODE-Mentor/)
 
 ### What I learned
 
